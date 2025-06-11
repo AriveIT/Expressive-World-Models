@@ -2,6 +2,8 @@ This project was submitted to CUCAI 2025 (proceedings of which can be found [her
 and done in tandem with Triston Grayston whose repository is [here](https://github.com/tristongrayston/Expressive_World_Models/tree/main).
 We experimented with three deep learning architectures to learn three different environments.
 
+ppo.ipynb includes an implementation of Proximal Policy Optimization (PPO) from scratch to get exploitative trajectories in the Pendulum environments.
+
 # Architectures
 
 ## Residual Connection
